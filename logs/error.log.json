@@ -1,0 +1,57 @@
+[
+  {
+    "timestamp": "2026-02-05T08:59:05.961Z",
+    "error": "Request failed with status code 500",
+    "stack": "AxiosError: Request failed with status code 500\n    at settle (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:2086:12)\n    at IncomingMessage.handleStreamEnd (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:3476:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:4713:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async callSoapApi (S:\\GateSolution\\server.js:58:20)\n    at async S:\\GateSolution\\server.js:143:22"
+  },
+  {
+    "timestamp": "2026-02-05T08:59:56.566Z",
+    "error": "Request failed with status code 500",
+    "stack": "AxiosError: Request failed with status code 500\n    at settle (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:2086:12)\n    at IncomingMessage.handleStreamEnd (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:3476:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:4713:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async callSoapApi (S:\\GateSolution\\server.js:58:20)\n    at async S:\\GateSolution\\server.js:143:22"
+  },
+  {
+    "timestamp": "2026-02-05T09:01:48.541Z",
+    "error": "Request failed with status code 500",
+    "stack": "AxiosError: Request failed with status code 500\n    at settle (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:2086:12)\n    at IncomingMessage.handleStreamEnd (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:3476:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:4713:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async callSoapApi (S:\\GateSolution\\server.js:52:20)\n    at async S:\\GateSolution\\server.js:133:22"
+  },
+  {
+    "timestamp": "2026-02-05T09:02:42.509Z",
+    "error": "Request failed with status code 500",
+    "stack": "AxiosError: Request failed with status code 500\n    at settle (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:2086:12)\n    at IncomingMessage.handleStreamEnd (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:3476:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:4713:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async callSoapApi (S:\\GateSolution\\server.js:52:20)\n    at async S:\\GateSolution\\server.js:133:22"
+  },
+  {
+    "timestamp": "2026-02-05T09:03:03.008Z",
+    "error": "Request failed with status code 500",
+    "stack": "AxiosError: Request failed with status code 500\n    at settle (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:2086:12)\n    at IncomingMessage.handleStreamEnd (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:3476:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:4713:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async callSoapApi (S:\\GateSolution\\server.js:52:20)\n    at async S:\\GateSolution\\server.js:133:22"
+  },
+  {
+    "timestamp": "2026-02-05T09:03:42.685Z",
+    "error": "Request failed with status code 500",
+    "stack": "AxiosError: Request failed with status code 500\n    at settle (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:2086:12)\n    at IncomingMessage.handleStreamEnd (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:3476:11)\n    at IncomingMessage.emit (node:events:530:35)\n    at endReadableNT (node:internal/streams/readable:1698:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)\n    at Axios.request (S:\\GateSolution\\node_modules\\axios\\dist\\node\\axios.cjs:4713:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async callSoapApi (S:\\GateSolution\\server.js:52:20)\n    at async S:\\GateSolution\\server.js:134:22"
+  },
+  {
+    "timestamp": "2026-02-05T09:13:55.544Z",
+    "error": "Invalid SOAP response structure",
+    "stack": "Error: Invalid SOAP response structure\n    at parseSoapResponse (S:\\GateSolution\\server.js:97:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+  },
+  {
+    "timestamp": "2026-02-05T09:16:14.431Z",
+    "error": "Envelope not found",
+    "stack": "Error: Envelope not found\n    at parseSoapResponse (S:\\GateSolution\\server.js:109:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+  },
+  {
+    "timestamp": "2026-02-05T09:16:41.466Z",
+    "error": "Envelope not found",
+    "stack": "Error: Envelope not found\n    at parseSoapResponse (S:\\GateSolution\\server.js:109:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+  },
+  {
+    "timestamp": "2026-02-05T09:17:47.972Z",
+    "error": "Envelope not found",
+    "stack": "Error: Envelope not found\n    at parseSoapResponse (S:\\GateSolution\\server.js:109:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+  },
+  {
+    "time": "2026-02-05T09:19:07.046Z",
+    "error": "PermitNumber not found in SOAP response",
+    "stack": "Error: PermitNumber not found in SOAP response\n    at parseSoapResponse (S:\\GateSolution\\server.js:130:11)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)"
+  }
+]

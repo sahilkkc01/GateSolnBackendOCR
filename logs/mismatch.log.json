@@ -1,0 +1,33 @@
+[
+  {
+    "timestamp": "2026-02-05T09:53:27.069Z",
+    "client": {
+      "permitNumber": "GPMN208057",
+      "containerNumber": "TCNUSD6804",
+      "containerSize": "40",
+      "containerType": "HQ",
+      "containerStatus": "E4",
+      "vehicleNumber": "HP12H2847",
+      "slineCode": "ONEPL",
+      "lddMtFlag": "E",
+      "photoPath": "/mnt/camera/gate1/img_20240208_132025.jpg"
+    },
+    "soapData": {
+      "permitNumber": "GPMN208057",
+      "containerNumber": "TCNU2106804",
+      "containerSize": "40",
+      "containerType": "HQ",
+      "containerStatus": "E4",
+      "vehicleNumber": "",
+      "slineCode": "ONEPL",
+      "lddMtFlag": "E"
+    },
+    "mismatches": [
+      {
+        "field": "containerNumber",
+        "client": "TCNUSD6804",
+        "soap": "TCNU2106804"
+      }
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "time": "2026-02-05T09:19:07.044Z",
+    "parsed": {
+      "env:Envelope": {
+        "env:Header": {
+          "wsa:MessageID": "urn:b879a388-0273-11f1-8f95-00144ff931c5",
+          "wsa:ReplyTo": {
+            "wsa:Address": "http://www.w3.org/2005/08/addressing/anonymous",
+            "wsa:ReferenceParameters": {
+              "instra:tracking.ecid": "c5bd336a-b3ae-41fd-ade0-d811b71ccb84-0007e682",
+              "instra:tracking.FlowEventId": "1872880203",
+              "instra:tracking.FlowId": "43344116",
+              "instra:tracking.CorrelationFlowId": "0000Pkh6HmzEkJ1pzss1yW1dUj9D0005so",
+              "instra:tracking.quiescing.SCAEntityId": "1370004"
+            }
+          },
+          "wsa:FaultTo": {
+            "wsa:Address": "http://www.w3.org/2005/08/addressing/anonymous"
+          }
+        },
+        "env:Body": {
+          "EmptyTrailerOutput": {
+            "tns:PermitDTLS": {
+              "tns:PermitNumber": "GPMN208057",
+              "tns:ContainerNumber": "TCNU2106804",
+              "tns:ContainerSize": "40",
+              "tns:ContainerType": "HQ",
+              "tns:ContainerStatus": "E4",
+              "tns:IsPermitValid": "2023-02-09T03:00:00.000+05:30",
+              "tns:PermitDateTime": "08-FEB-23",
+              "tns:VechileNumber": "",
+              "tns:SlineCode": "ONEPL",
+              "tns:CtrLifeNumber": "2023-02-05T04:34:00.000+05:30",
+              "tns:LDD_MT_Flg": "E"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-02-05T09:21:29.401Z",
+    "parsed": {
+      "env:Envelope": {
+        "$": {
+          "xmlns:env": "http://schemas.xmlsoap.org/soap/envelope/",
+          "xmlns:wsa": "http://www.w3.org/2005/08/addressing"
+        },
+        "env:Header": {
+          "wsa:MessageID": "urn:0d556cd6-0274-11f1-8f95-00144ff931c5",
+          "wsa:ReplyTo": {
+            "wsa:Address": "http://www.w3.org/2005/08/addressing/anonymous",
+            "wsa:ReferenceParameters": {
+              "instra:tracking.ecid": {
+                "_": "c5bd336a-b3ae-41fd-ade0-d811b71ccb84-0007e73a",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              },
+              "instra:tracking.FlowEventId": {
+                "_": "1872881049",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              },
+              "instra:tracking.FlowId": {
+                "_": "43344129",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              },
+              "instra:tracking.CorrelationFlowId": {
+                "_": "0000Pkh6oZVEkJ1pzss1yW1dUj9D0005t1",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              },
+              "instra:tracking.quiescing.SCAEntityId": {
+                "_": "1370004",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              }
+            }
+          },
+          "wsa:FaultTo": {
+            "wsa:Address": "http://www.w3.org/2005/08/addressing/anonymous"
+          }
+        },
+        "env:Body": {
+          "EmptyTrailerOutput": {
+            "$": {
+              "xmlns:jca": "http://xmlns.oracle.com/pcbpel/wsdl/jca/",
+              "xmlns:ns2": "http://xmlns.oracle.com/pcbpel/adapter/db/CTMSAPICCLS/GateWithEmptyTrailer/FetchGPCPermitDTLS",
+              "xmlns:plnk": "http://docs.oasis-open.org/wsbpel/2.0/plnktype",
+              "xmlns:wsdl": "http://schemas.xmlsoap.org/wsdl/",
+              "xmlns:client": "http://xmlns.oracle.com/CTMSAPICCLS/GateWithEmptyTrailer/EmptyTrailerBPEL",
+              "xmlns:plt": "http://schemas.xmlsoap.org/ws/2003/05/partner-link/",
+              "xmlns:tns": "http://www.concor.com/cil/EmptyTrailerOutput/1.0/",
+              "xmlns": "http://www.concor.com/cil/EmptyTrailerOutput/1.0/"
+            },
+            "tns:PermitDTLS": {
+              "tns:PermitNumber": "GPMN208057",
+              "tns:ContainerNumber": "TCNU2106804",
+              "tns:ContainerSize": "40",
+              "tns:ContainerType": "HQ",
+              "tns:ContainerStatus": "E4",
+              "tns:IsPermitValid": "2023-02-09T03:00:00.000+05:30",
+              "tns:PermitDateTime": "08-FEB-23",
+              "tns:VechileNumber": "",
+              "tns:SlineCode": "ONEPL",
+              "tns:CtrLifeNumber": "2023-02-05T04:34:00.000+05:30",
+              "tns:LDD_MT_Flg": "E"
+            }
+          }
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2026-02-05T09:28:53.964Z",
+    "parsed": {
+      "env:Envelope": {
+        "$": {
+          "xmlns:env": "http://schemas.xmlsoap.org/soap/envelope/",
+          "xmlns:wsa": "http://www.w3.org/2005/08/addressing"
+        },
+        "env:Header": {
+          "wsa:MessageID": "urn:164ed3d9-0275-11f1-8f95-00144ff931c5",
+          "wsa:ReplyTo": {
+            "wsa:Address": "http://www.w3.org/2005/08/addressing/anonymous",
+            "wsa:ReferenceParameters": {
+              "instra:tracking.ecid": {
+                "_": "c5bd336a-b3ae-41fd-ade0-d811b71ccb84-0007e93a",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              },
+              "instra:tracking.FlowEventId": {
+                "_": "1872883162",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              },
+              "instra:tracking.FlowId": {
+                "_": "43344162",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              },
+              "instra:tracking.CorrelationFlowId": {
+                "_": "0000Pkh8X5cEkJ1pzss1yW1dUj9D0005tY",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              },
+              "instra:tracking.quiescing.SCAEntityId": {
+                "_": "1370004",
+                "$": {
+                  "xmlns:instra": "http://xmlns.oracle.com/sca/tracking/1.0"
+                }
+              }
+            }
+          },
+          "wsa:FaultTo": {
+            "wsa:Address": "http://www.w3.org/2005/08/addressing/anonymous"
+          }
+        },
+        "env:Body": {
+          "EmptyTrailerOutput": {
+            "$": {
+              "xmlns:jca": "http://xmlns.oracle.com/pcbpel/wsdl/jca/",
+              "xmlns:ns2": "http://xmlns.oracle.com/pcbpel/adapter/db/CTMSAPICCLS/GateWithEmptyTrailer/FetchGPCPermitDTLS",
+              "xmlns:plnk": "http://docs.oasis-open.org/wsbpel/2.0/plnktype",
+              "xmlns:wsdl": "http://schemas.xmlsoap.org/wsdl/",
+              "xmlns:client": "http://xmlns.oracle.com/CTMSAPICCLS/GateWithEmptyTrailer/EmptyTrailerBPEL",
+              "xmlns:plt": "http://schemas.xmlsoap.org/ws/2003/05/partner-link/",
+              "xmlns:tns": "http://www.concor.com/cil/EmptyTrailerOutput/1.0/",
+              "xmlns": "http://www.concor.com/cil/EmptyTrailerOutput/1.0/"
+            },
+            "tns:PermitDTLS": {
+              "tns:PermitNumber": "GPMN208057",
+              "tns:ContainerNumber": "TCNU2106804",
+              "tns:ContainerSize": "40",
+              "tns:ContainerType": "HQ",
+              "tns:ContainerStatus": "E4",
+              "tns:IsPermitValid": "2023-02-09T03:00:00.000+05:30",
+              "tns:PermitDateTime": "08-FEB-23",
+              "tns:VechileNumber": "",
+              "tns:SlineCode": "ONEPL",
+              "tns:CtrLifeNumber": "2023-02-05T04:34:00.000+05:30",
+              "tns:LDD_MT_Flg": "E"
+            }
+          }
+        }
+      }
+    }
+  }
+]

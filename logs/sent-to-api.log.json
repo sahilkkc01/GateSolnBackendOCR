@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "2026-02-05T09:59:28.581Z",
+    "source": "manual",
+    "client": {
+      "permitNumber": "GPMN208057",
+      "containerNumber": "TCNUSD6804",
+      "containerSize": "40",
+      "containerType": "HQ",
+      "containerStatus": "E4",
+      "vehicleNumber": "HP12H2847",
+      "slineCode": "ONEPL",
+      "lddMtFlag": "E",
+      "photoPath": "/mnt/camera/gate1/img_20240208_132025.jpg",
+      "confirmedByUser": true
+    },
+    "soapData": null
+  },
+  {
+    "timestamp": "2026-02-05T09:59:40.924Z",
+    "source": "manual",
+    "client": {
+      "permitNumber": "GPMN208057",
+      "containerNumber": "TCNUSD6804",
+      "containerSize": "40",
+      "containerType": "HQ",
+      "containerStatus": "E4",
+      "vehicleNumber": "HP12H2847",
+      "slineCode": "ONEPL",
+      "lddMtFlag": "E",
+      "photoPath": "/mnt/camera/gate1/img_20240208_132025.jpg",
+      "confirmedByUser": true
+    },
+    "soapData": null
+  },
+  {
+    "timestamp": "2026-02-05T09:59:50.448Z",
+    "source": "manual",
+    "client": {
+      "permitNumber": "GPMN208057",
+      "containerNumber": "TCNUSD6804",
+      "containerSize": "40",
+      "containerType": "HQ",
+      "containerStatus": "E4",
+      "vehicleNumber": "HP12H2847",
+      "slineCode": "ONEPL",
+      "lddMtFlag": "E",
+      "photoPath": "/mnt/camera/gate1/img_20240208_132025.jpg",
+      "confirmedByUser": true
+    },
+    "soapData": null
+  },
+  {
+    "timestamp": "2026-02-05T10:04:13.711Z",
+    "source": "manual",
+    "client": {
+      "permitNumber": "GPMN208057",
+      "containerNumber": "TCNUSD6804",
+      "containerSize": "40",
+      "containerType": "HQ",
+      "containerStatus": "E4",
+      "vehicleNumber": "HP12H2847",
+      "slineCode": "ONEPL",
+      "lddMtFlag": "E",
+      "photoPath": "/mnt/camera/gate1/img_20240208_132025.jpg",
+      "confirmedByUser": true
+    },
+    "soapData": null
+  },
+  {
+    "timestamp": "2026-02-05T10:04:22.470Z",
+    "source": "manual",
+    "client": {
+      "permitNumber": "GPMN208057",
+      "containerNumber": "TCNUSD6804",
+      "containerSize": "40",
+      "containerType": "HQ",
+      "containerStatus": "E4",
+      "vehicleNumber": "HP12H2847",
+      "slineCode": "ONEPL",
+      "lddMtFlag": "E",
+      "photoPath": "/mnt/camera/gate1/img_20240208_132025.jpg",
+      "confirmedByUser": true
+    },
+    "soapData": null
+  }
+]
